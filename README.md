@@ -30,6 +30,3 @@
 # 指定位置
 $Latitude = 
 $Longitude = 
-
-# 调试模式
-$DebugMode = $false   # 设为 $true 时输出详细日志
